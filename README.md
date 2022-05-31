@@ -110,7 +110,5 @@ In this page, If you want to purchase the product, you need fill some details re
 
 ****deploy link***
 
-[project Deploy link of netify]()
 
-
-[Project Deploy Link]()
+[Project Deploy Link](https://zappos-delta.vercel.app/)
